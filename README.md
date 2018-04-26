@@ -13,10 +13,11 @@
 
 ## Introduction
 
-Checks if divisible by 3.
-Checks if divisible by 5.
-Checks if divisible by 3 + 5.
-Checks if prime.
+- 'FIZZ' if number is divisible by 3.
+- 'BUZZ' if divisible by 5.
+- 'FIZZBUZZ' if divisible by 3 + 5.
+- 'FIZZBUZZ++' if prime.
+
 Logs output to console and to .log file.
 
 ## Built-With
