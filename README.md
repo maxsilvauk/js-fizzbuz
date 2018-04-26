@@ -22,8 +22,8 @@ Logs output to console and to .log file.
 
 ## Built-With
 
-- Node v8.0.0
 - JavaScript
+- Node v8.0.0
 
 ## Install 
 
