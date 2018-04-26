@@ -6,8 +6,8 @@ function checkIfLogExists(fs, file){
 }
 
 // Writes to file.
-function writeToFile(fs, file, data,) {
-	var os = require("os");
+function writeToFile(fs, file, data) {
+	var os = require('os');
 	fs.appendFile(file, data + os.EOL, function (err) {
 		if (err) {
 	  		throw err;
