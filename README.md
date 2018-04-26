@@ -1,4 +1,4 @@
-<h1 align="center">FizzBuzz</h1>
+<h1 align="center">FizzBuzz++</h1>
 <br>
 <p align="center">
     <img src="https://img.shields.io/badge/node-v8.0.0^-green.svg" />
